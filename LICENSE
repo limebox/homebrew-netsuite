@@ -1,0 +1,660 @@
+SUITECLOUD SDFCLI INSTALLER AGREEMENT
+
+Copyright (c) 2017 LIMEBOX CORPORATION
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+a) The above copyright notice, this permission notice, the following
+SuiteCloud IDE License Agreement from Oracle-NetSuite, and other third-party
+software shall be included in all copies or substantial portions of the
+Software.
+
+b) Where the above permissions do not conflict with the following License
+Agreement from Oracle-NetSuite and other third-party software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+SUITECLOUD IDE LICENSE AGREEMENT
+
+ATTENTION! THE FOLLOWING TERMS AND CONDITIONS WILL BE LEGALLY BINDING UPON YOU
+AT THE TIME YOU INSTALL, COPY OR OTHERWISE USE THE SUITECLOUD IDE. YOU SHOULD
+CAREFULLY READ THE FOLLOWING AGREEMENT PRIOR TO INSTALLING, COPYING OR BEGIN
+USING THE SUITECLOUD IDE. YOU ARE REPRESENTING THAT YOU HAVE AUTHORITY TO ENTER
+INTO AGREEMENT ON BEHALF OF YOU OR YOUR COMPANY (OR OTHER ENTITY). IF YOU DO NOT
+ HAVE SUCH AUTHORITY OR YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS CONTAINED
+  HEREIN, DO NOT INSTALL, COPY OR OTHERWISE USE THE SUITECLOUD IDE IN ANY
+  MANNER.
+
+© NetSuite Inc. 2012 - 2017
+
+In this SuiteCloud IDE License Agreement ("Agreement"), "SuiteCloud IDE" means
+the software libraries, documentation, sample files, and other related items
+included within the SuiteCloud IDE package. "You", and "Your" refer to any
+person or entity accessing or using this SuiteCloud IDE, and "NetSuite" means
+NetSuite Inc.
+
+You expressly agree as follows:
+
+1) Licenses.
+
+(a) Subject to Your compliance with the terms and conditions of this Agreement,
+during the term of this Agreement, NetSuite grants You a personal,
+non-exclusive, non-transferable, non-sublicensable, limited license to install
+the SuiteCloud IDE, in object code form only, on Your networked or standalone
+computers and to access and use the SuiteCloud IDE internally to develop
+authorized customizations to interoperate with the NetSuite SuiteCloud Platform.
+Any such application program is referred to in this Agreement a
+"Your Application".
+
+(b) The SuiteCloud IDE may include other open source software programs licensed
+under different terms and/or licensed by a vendor other than NetSuite. Use of
+any software programs accompanied by a separate license agreement is governed
+by that separate license agreement and not the terms of this Agreement, except
+that Sections 5 and 6 shall apply to the third party software. Please review the
+installation details accessible through the about box for the separate license
+notices and requirements for the third party software. NetSuite is not
+responsible for any third party's software and shall have no liability for Your
+use of third party software.
+
+2) You shall not distribute the SuiteCloud IDE. You agree that the use and
+distribution of Your Application shall be in accordance with the NetSuite
+SuiteCloud Terms of Service. You may not prepare any derivative works of the
+SuiteCloud IDE. You may not disassemble, decompile or reverse engineer the
+SuiteCloud IDE non-open source components in order to obtain the source code,
+which is a trade secret of NetSuite and/or its suppliers. You may not sell,
+rent, loan, lease, sublease, assign, or otherwise transfer the SuiteCloud IDE.
+You agree to reproduce any copyright and other proprietary right notices on any
+copies of the SuiteCloud IDE.
+
+3) This Agreement is effective until terminated. NetSuite may terminate this
+Agreement immediately and without notice if You fail to comply with any term of
+this Agreement. Upon any such termination, You must destroy all full and partial
+copies of the SuiteCloud IDE immediately and, if requested by NetSuite, certify
+in writing that the SuiteCloud IDE was destroyed.
+
+4) Except as expressly licensed to You in this Agreement, NetSuite retains all
+right, title, and interest in and to all patents, trademarks, trade names,
+inventions, copyrights, know-how, and trade secrets relating to the design,
+manufacture, operation, or service of the SuiteCloud IDE.
+
+5) THIS SUITECLOUD IDE IS PROVIDED BY NETSUITE "AS IS" AND IS INTENDED FOR
+INTERNAL COMMERCIAL USE. NETSUITE AND ITS LICENSORS DO NOT REPRESENT THAT THE
+SUITECLOUD IDE WILL BE ERROR-FREE OR THAT THE SUITECLOUD IDE WILL MEET ANY
+REQUIREMENTS. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS ARE HEREBY EXPRESSLY AND COMPLETELY
+DISCLAIMED.
+
+6) IN NO EVENT SHALL NETSUITE OR ITS LICENSORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY WHATSOEVER, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SUITECLOUD
+IDE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE PERSON OR ENTITY
+USING THIS SUITECLOUD IDE ASSUMES ALL RESPONSIBILITY FOR DETERMINING WHETHER IT
+IS ACCURATE OR SUFFICIENT FOR THE USERS' PURPOSES. IN NO EVENT SHALL NETSUITE'S
+LICENSORS OR SUPPLIERS BE LIABLE FOR ANY DAMAGES OF ANY KIND.
+
+7) If any part of the SuiteCloud IDE is identified as export controlled items
+under the Export Laws, you represent and warrant that you are not a citizen, or
+otherwise located within, an embargoed nation as defined by U.S. law and that
+you are not otherwise prohibited under applicable export laws from receiving the
+ SuiteCloud IDE. Your rights to use this SuiteCloud IDE are forfeited if you
+ fail to comply with the terms of this Agreement.
+
+8) This Agreement is governed by and construed in accordance with the
+substantive laws in force in the State of California. Any disputes, actions,
+claims or causes of action arising out of or in connection with this Agreement
+shall be subject to the exclusive jurisdiction of the state and federal courts
+located in California.
+
+9) None of the provisions of this Agreement shall be deemed to have been waived
+by any act or acquiescence on the part of NetSuite, its agents, or employees,
+but only by an instrument in writing signed by an authorized signatory of
+NetSuite.
+
+10) It is expressly agreed that a breach of this Agreement may cause irreparable
+harm to NetSuite and that a remedy at law may be inadequate. Therefore, in
+addition to any and all remedies available at law, NetSuite will be entitled to
+seek an injunction or other equitable remedies in all legal proceedings in the
+event of any threatened or actual violation thereof.
+
+11) The SuiteCloud IDE may contain certain Third Party Code that is under terms
+of separate agreements, which can be found at the end of this Agreement.
+
+12) You acknowledge that You have read this Agreement, understand it, and that
+it is the complete and exclusive statement of Your agreement with NetSuite which
+supersedes any prior agreement, oral or written, between NetSuite and You with
+respect to the licensing to You of this SuiteCloud IDE.
+
+END OF AGREEMENT
+
+
+
+THIRD PARTY CODE
+
+The SuiteCloud IDE may contain the version of the components listed below or
+later versions.
+
+The SuiteCloud IDE is a plugin built on top of the Eclipse IDE and requires
+either "Eclipse IDE for JavaScript Web Developers (Version 3.7)" or "Eclipse IDE
+ for Java EE Developers (Eclipse 4.3)" to run. The SuiteCloud IDE may contain
+ code from the Eclipse IDE, which is licensed pursuant to the Eclipse Public
+ License available at http://www.eclipse.org/legal/epl-v10.html. The source code
+  for both versions of eclipse IDE is available via download at
+  http://www.eclipse.org.
+
+The SuiteCloud IDE may contain XStream 1.3.1 which is licensed pursuant to the
+following terms:
+
+Copyright (c) 2003-2006, Joe Walnes
+Copyright (c) 2006-2009, XStream Committers
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list
+of conditions and the following disclaimer. Redistributions in binary form must
+reproduce the above copyright notice, this list of conditions and the following
+disclaimer in the documentation and/or other materials provided with the
+distribution.
+
+Neither the name of XStream nor the names of its contributors may be used to
+endorse or promote products derived from this software without specific prior
+written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The SuiteCloud IDE may contain XPP3 1.1.4c which is licensed pursuant to the
+following terms:
+
+LICENSE FOR THE Extreme! Lab
+------------------------------------------------------------------------
+
+Copyright  2003 The Trustees of Indiana University.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1) All redistributions of source code must retain the above
+   copyright notice, the list of authors in the original source
+   code, this list of conditions and the disclaimer listed in this
+   license;
+
+2) All redistributions in binary form must reproduce the above
+   copyright notice, this list of conditions and the disclaimer
+   listed in this license in the documentation and/or other
+   materials provided with the distribution;
+
+3) Any documentation included with all redistributions must include
+   the following acknowledgement:
+
+     "This product includes software developed by the Indiana 
+     University Extreme! Lab.  For further information please visit 
+     http://www.extreme.indiana.edu/"
+
+   Alternatively, this acknowledgment may appear in the software
+   itself, and wherever such third-party acknowledgments normally
+   appear.
+
+4) The name "Indiana University" and "Indiana University
+   Extreme! Lab" shall not be used to endorse or promote
+   products derived from this software without prior written
+   permission from Indiana University.  For written permission,
+   please contact http://www.extreme.indiana.edu/.
+
+5) Products derived from this software may not use "Indiana
+   University" name nor may "Indiana University" appear in their name,
+  without prior written permission of the Indiana University.
+ 
+Indiana University provides no reassurances that the source code
+provided does not infringe the patent or any other intellectual
+property rights of any other entity.  Indiana University disclaims any
+liability to any recipient for claims brought by any other entity
+based on infringement of intellectual property rights or otherwise.
+
+LICENSEE UNDERSTANDS THAT SOFTWARE IS PROVIDED "AS IS" FOR WHICH
+NOWARRANTIES AS TO CAPABILITIES OR ACCURACY ARE MADE. INDIANA
+UNIVERSITY GIVES NO WARRANTIES AND MAKES NO REPRESENTATION THAT
+SOFTWARE IS FREE OF INFRINGEMENT OF THIRD PARTY PATENT, COPYRIGHT, OR
+OTHER PROPRIETARY RIGHTS. INDIANA UNIVERSITY MAKES NO WARRANTIES THAT
+SOFTWARE IS FREE FROM "BUGS", "VIRUSES", "TROJAN HORSES", "TRAP
+DOORS", "WORMS", OR OTHER HARMFUL CODE.  LICENSEE ASSUMES THE ENTIRE
+RISK AS TO THE PERFORMANCE OF SOFTWARE AND/OR ASSOCIATED MATERIALS,
+AND TO THE PERFORMANCE AND VALIDITY OF INFORMATION GENERATED USING
+SOFTWARE.
+The SuiteCloud IDE may contain Apache Velocity 1.7, Jettison 1.3.2,Apache
+Commons IO 2.4 and Apache Commons Logging 1.1.1, which are licensed pursuant to
+the Apache License 2.0 available at
+http://www.apache.org/licenses/LICENSE-2.0.txt
+
+The SuiteCloud IDE may contain Apache HTTP Client versions 3.0.1 and 4.1.2,
+which is subject to a dual license of LGPL v3 and Apache License 2.0:
+
+NetSuite elects Apache License 2.0.
+
+Copyright 1999-2004 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+The SuiteCloud IDE may contain Axis 1.4, which is licensed pursuant to Apache
+License 1.1 and Apache License 2.0:
+
+Apache 2.0:
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Apache 1.1:
+
+The Apache Software License, Version 1.1
+
+Copyright (c) 2001-2003 The Apache Software Foundation.  All rights
+reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. The end-user documentation included with the redistribution,
+   if any, must include the following acknowledgment:
+      "This product includes software developed by the
+       Apache Software Foundation (http://www.apache.org/)."
+   Alternately, this acknowledgment may appear in the software itself,
+   if and wherever such third-party acknowledgments normally appear.
+
+4. The names "Axis" and "Apache Software Foundation" must
+   not be used to endorse or promote products derived from this
+   software without prior written permission. For written
+   permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache",
+   nor may "Apache" appear in their name, without prior written
+   permission of the Apache Software Foundation.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+====================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+NetSuite has modified HTTPSender and JavaBeanWriter. Modified code is available
+at NetSuite has modified HTTPSender and JavaBeanWriter. Modified code is
+available at http://www.netsuite.com/download/axis1_4_patch.zip
+
+Portions © 2014 NetSuite Inc.
+
+The SuiteCloud IDE may contain Apache Log4j 1.2.16, which is licensed pursuant
+to Apache License 1.1 and Apache License 2.0:
+
+Apache 2.0:
+
+Copyright 1999-2005 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Apache 1.1:
+
+The Apache Software License, Version 1.1
+
+Copyright (c) The Apache Software Foundation.  All rights
+reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. The end-user documentation included with the redistribution,
+   if any, must include the following acknowledgment:
+      "This product includes software developed by the
+       Apache Software Foundation (http://www.apache.org/)."
+   Alternately, this acknowledgment may appear in the software itself,
+   if and wherever such third-party acknowledgments normally appear.
+
+4. The names "Apache" and "Apache Software Foundation" must
+   not be used to endorse or promote products derived from this
+   software without prior written permission. For written
+   permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache",
+   nor may "Apache" appear in their name, without prior written
+   permission of the Apache Software Foundation.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+====================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+The SuiteCloud IDE may contain Castor 1.3.2, which is licensed pursuant to
+Apache License 1.1 and Apache License 2.0:
+
+Apache 2.0:
+
+Copyright 2004-2005 Werner Guttmann
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Apache 1.1:
+
+The Apache Software License, Version 1.1
+
+Copyright (c) The Apache Software Foundation.  All rights
+reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. The end-user documentation included with the redistribution,
+   if any, must include the following acknowledgment:
+      "This product includes software developed by the
+       Apache Software Foundation (http://www.apache.org/)."
+   Alternately, this acknowledgment may appear in the software itself,
+   if and wherever such third-party acknowledgments normally appear.
+
+4. The names "Apache" and "Apache Software Foundation" must
+   not be used to endorse or promote products derived from this
+   software without prior written permission. For written
+   permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache",
+   nor may "Apache" appear in their name, without prior written
+   permission of the Apache Software Foundation.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+====================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+The SuiteCloud IDE may contain Apache Commons Codec 1.4, which is licensed
+pursuant to Apache License 1.1 and Apache License 2.0:
+
+Apache 2.0:
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Apache 1.1:
+
+The Apache Software License, Version 1.1
+
+Copyright (c) The Apache Software Foundation.  All rights
+reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. The end-user documentation included with the redistribution,
+   if any, must include the following acknowledgment:
+      "This product includes software developed by the
+       Apache Software Foundation (http://www.apache.org/)."
+   Alternately, this acknowledgment may appear in the software itself,
+   if and wherever such third-party acknowledgments normally appear.
+
+4. The names "Apache" and "Apache Software Foundation" must
+   not be used to endorse or promote products derived from this
+   software without prior written permission. For written
+   permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache",
+   nor may "Apache" appear in their name, without prior written
+   permission of the Apache Software Foundation.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+====================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+The SuiteCloud IDE may contain Apache Commons Discovery 0.2, which is licensed
+pursuant to Apache License 1.1:
+
+The Apache Software License, Version 1.1
+
+Copyright (c) 1999-2001 The Apache Software Foundation.  All rights
+reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in
+the documentation and/or other materials provided with the
+distribution.
+
+3. The end-user documentation included with the redistribution, if
+any, must include the following acknowlegement:
+
+   "This product includes software developed by the
+   Apache Software Foundation (http://www.apache.org/)."
+   Alternately, this acknowlegement may appear in the software itself,
+   if and wherever such third-party acknowlegements normally appear.
+
+4. The names "The Jakarta Project", "Commons", and "Apache Software
+   Foundation" must not be used to endorse or promote products derived
+   from this software without prior written permission. For written
+   permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache"
+   nor may "Apache" appear in their names without prior written
+   permission of the Apache Group.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+====================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+The SuiteCloud IDE may contain unmodified binary redistributions for H2 database
+engine (http://www.h2database.com/). The H2 database engine is dual licensed and
+available under a modified version of the MPL 1.1 (Mozilla Public License) or
+under the (unmodified) EPL 1.0 (Eclipse Public License). NetSuite elects
+EPL 1.0.
+
+An original copy of the license agreement can be found at:
+http://www.h2database.com/html/license.html.
+
+A copy of H2 source can be found at:
+http://www.h2database.com/html/download.html
+
+The SuiteCloud IDE may contain ORM Lite 4.41 which is licensed as part of the
+ORM Lite project under the following license terms:
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that this permission notice
+appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+The author may be contacted via http://ormlite.com/
+The SuiteCloud IDE may contain JAX-RPC, which is licensed under CDDL 1.0:
+
+http://opensource.org/licenses/cddl1.txt
+
+A copy of JAX-RPC source can be found at https://java.net/projects/jax-rpc/.
+
+The SuiteCloud IDE may contain WSDL4J 1.5.1, which is licensed under CPL 1.0:
+
+http://opensource.org/licenses/cpl1.0.txt
+
+A copy of WSDL4J source can be found at
+http://www.netsuite.com/download/ide/wsdl4j-1.5.1-sources.zip.
