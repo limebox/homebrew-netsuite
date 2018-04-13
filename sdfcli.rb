@@ -1,8 +1,8 @@
 class Sdfcli < Formula
   desc "NetSuite SDF CLI Tool"
   homepage "https://system.netsuite.com/app/help/helpcenter.nl?fid=chapter_4779302061.html"
-  url "https://github.com/limebox/sdf/raw/master/Files/brew/sdfcli-17.2.0.tar.gz"
-  sha256 "984155c6ed680c581aa85f0e32e43bc7894db5182b3a372267780b5402f441f3"
+  url "https://github.com/limebox/sdf/raw/17.2.1/Files/brew/sdfcli-17.2.1.tar.gz"
+  sha256 "6250cb9efa46cc281a287d2d845c1ff7d86f2a1b4c7ab8c87846e3e446023e65"
 
   depends_on "maven" => :build
 
