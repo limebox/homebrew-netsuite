@@ -1,4 +1,4 @@
-class Sdfsdk < Formula
+class Sdfcli < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://system.netsuite.com/app/help/helpcenter.nl?fid=section_1489072409.html"
   url "https://github.com/limebox/sdf/raw/18.1.1/Files/brew/sdfsdk-18.1.1.tar.gz"
