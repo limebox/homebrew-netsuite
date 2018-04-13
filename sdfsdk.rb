@@ -12,6 +12,6 @@ class Sdfsdk < Formula
   end
 
   test do
-    system "#{bin}/sdfsdk"
+    system "#{bin}/sdfcli"
   end
 end
