@@ -4,6 +4,7 @@ You will need to reset the repo if you previously installed sdfcli.
 
 ```cmd
 brew untap limebox/netsuite
+brew uninstall sdfcli
 ```
 
 To use this recipe, you must first have Java 8 installed.
