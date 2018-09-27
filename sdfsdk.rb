@@ -1,14 +1,14 @@
 class Sdfsdk < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://system.netsuite.com/app/help/helpcenter.nl?fid=section_1489072409.html"
-  url "https://github.com/limebox/sdf/raw/v18.1.2/Files/brew/sdfsdk-18.1.2.tar.gz"
-  sha256 "9c83d15acbfc53442167f89701febeb4bbbc1de5c29389bc3eb0d7525e6cad67"
+  url "https://github.com/limebox/sdf/raw/18.2.0/Files/brew/sdfsdk-18.2.0.tar.gz"
+  sha256 "5a7984bb81053e813ace46c53809f611961f84024d101e314db9d094937e5574"
 
   depends_on "maven" => :build
 
   def install
-    bin.install "sdfcli", "sdfcli-createproject"
-    libexec.install "pom.xml", "com.netsuite.ide.core_2018.1.2.jar", "axis.jar", "NetSuiteWebService.jar"
+    bin.install "sdfcli"
+    libexec.install "pom.xml", "com.netsuite.ide.core_2018.2.0.jar", "axis.jar", "NetSuiteWebService.jar"
   end
 
   test do
