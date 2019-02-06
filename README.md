@@ -15,7 +15,26 @@ To use this recipe, you must first have Java 8 installed.
 brew cask install caskroom/versions/java8
 ```
 
-Install this recipe by typing the command below
+# Installing
+Install this recipe by typing the command:
 ```bash
 brew install limebox/netsuite/sdfsdk
+```
+
+# Updating
+Update this recipe by typing the command:
+```bash
+brew upgrade limebox/netsuite/sdfsdk
+```
+
+You may see the error:
+```bash
+Error: The following formula
+  sdfsdk
+cannot be installed as binary package and must be built from source.
+```
+
+If that is the case, type this command:
+```bash
+xcode-select --install
 ```
