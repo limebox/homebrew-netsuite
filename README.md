@@ -1,11 +1,25 @@
-**Update Note: Because NetSuite changed the name of this project to SDF SDK, I've changed it as well**
+**If there is an error installing this package**
 
-You will need to reset the repo if you previously installed sdfcli.
+If you are using an old version of the sdfcli / sdfsdk, and brew is not letting you install the update, try untapping and uninstalling old versions.
 
 ```cmd
 brew untap limebox/netsuite
 brew uninstall sdfcli
+brew uninstall sdfsdk
 ```
+
+**STOP: Upgrading from 2018.2.0**
+
+Before upgrading, I recommend saving your .clicache file. This will not be necessary as the .clicache file is now symlinked and will be preserved with each upgrade going forward.
+
+Open up your terminal and type these commands:
+```bash
+cp /usr/local/Cellar/sdfsdk/18.2.0/.clicache /usr/local/Cellar/sdfsdk/
+```
+
+You only need to do this when upgrading FROM 2018.2.0... If you are running a fresh install or upgrading in the future, you will no longer need to run this script.
+
+**Installing**
 
 To use this recipe, you must first have Java 8 installed.
 
