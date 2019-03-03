@@ -1,4 +1,4 @@
-class Sdfsdk < Formula
+class SdfsdkAT1010 < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://limebox.com/developers/sdfsdk"
   url "https://system.netsuite.com/download/suitecloud-sdk/cli/java/19.1/sdf-cli.tar.gz"

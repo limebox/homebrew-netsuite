@@ -1,4 +1,4 @@
-class Sdfsdk < Formula
+class SdfsdkAT1821 < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://limebox.com/developers/sdfsdk"
   url "https://github.com/limebox/sdf/raw/18.2.1/Files/brew/sdfsdk-18.2.1.tar.gz"
