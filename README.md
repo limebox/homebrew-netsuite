@@ -21,15 +21,6 @@ You only need to do this when upgrading FROM 2018.2.0... If you are running a fr
 
 **Installing**
 
-To use this recipe, you must first have Java 8 installed.
-
-**Note: NetSuite SDF SDK 18.1 is not compatible with Java 9. Please remove Java 9 and install Java 8**
-
-```bash
-brew cask install caskroom/versions/java8
-```
-
-# Installing
 Install this recipe by typing the command:
 ```bash
 brew install limebox/netsuite/sdfsdk
@@ -38,7 +29,7 @@ brew install limebox/netsuite/sdfsdk
 # Updating
 Update this recipe by typing the command:
 ```bash
-brew upgrade limebox/netsuite/sdfsdk
+brew upgrade sdfsdk
 ```
 
 You may see the error:
