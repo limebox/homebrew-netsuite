@@ -29,7 +29,7 @@ brew install limebox/netsuite/sdfsdk
 # Updating
 Update this recipe by typing the command:
 ```bash
-brew upgrade limebox/netsuite/sdfsdk
+brew upgrade sdfsdk
 ```
 
 You may see the error:
