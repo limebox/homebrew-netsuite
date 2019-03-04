@@ -1,8 +1,8 @@
 class SdfsdkAT1821 < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://limebox.com/developers/sdfsdk"
-  url "https://github.com/limebox/sdf/raw/18.2.1/Files/brew/sdfsdk-18.2.1.tar.gz"
-  sha256 "7cc40481acb67147728b76e2c3330b27517cce90d8e03285d1aa76206d22893b"
+  url "https://github.com/limebox/sdf/raw/%4018.2.1/Files/brew/sdfsdk-18.2.1.tar.gz"
+  sha256 "4042ebccb603901cd0fa4173bc48e1f99f7168121dd741b9be4b9ef243e22459"
   version "18.2.1"
 
   depends_on "maven" => :build
