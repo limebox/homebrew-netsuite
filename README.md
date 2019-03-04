@@ -31,40 +31,7 @@ brew install sdfsdk@XX.X.X
 ```
 Where XX.X.X is the corresponding SDF SDK release you need. Starting in 18.2.0 we will have all major previous releases available for historical reasons as this will help us agregate our numbers when we eventually try to integrate with the core Homebrew app.
 
-To switch between SDF SDK versions, you will need to first unlink the active version and link the new version.
-```bash
-brew unlink sdfsdk
-brew link sdfsdk@18.2.1
-```
-
-If you are comfortable with .bash_profile files, you can also add this script to make it easier.
-```bash
-function sdfsdk() {
-
-	version=$1
-	versions=($(brew search sdfsdk))
-	link="sdfsdk"
-
-	brew unlink sdfsdk
-
-	for i in "${versions[@]}"
-	do
-		if [[ $i != "==>" ]] && [[ $i != "Formulae" ]];then
-			sdkunlink="${i/limebox\/netsuite\//}"
-			brew unlink $sdkunlink
-		fi
-	done
-
-	if [[ $1 != "" ]]; then
-		link="$link@$version"
-	fi
-
-	brew link $link
-
-}
-```
-
-When added to your .bash_profile, you can execute the switch by typing:
+To switch between SDF SDK versions, we have included a helpful tool to reset your system. From the command line:
 
 ```bash
 sdfsdk #switches to the main version
