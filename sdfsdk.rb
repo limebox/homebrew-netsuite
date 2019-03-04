@@ -17,8 +17,9 @@ class Sdfsdk < Formula
   def post_install
 
     # Install .clicache shortcut
-    system "ln", "-s", "~/.clicache", "#{bin}/.clicache"
-    system "sh","<(curl -s https://raw.githubusercontent.com/limebox/homebrew-netsuite/master/sdfsdk_switch_shortcut.sh)"
+    # system "ln", "-s", "~/.clicache", "#{bin}/.clicache"
+    system "curl", "https://raw.githubusercontent.com/limebox/homebrew-netsuite/19.1.0/sdfsdk_switch_shortcut.sh", "-o", "#{bin}/sdfsdk_switch_shortcut.sh"
+    system "bash", "./sdfsdk_switch_shortcut.sh"
 
   end
 

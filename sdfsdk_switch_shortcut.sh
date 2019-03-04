@@ -5,6 +5,8 @@
 NL='
 '
 
+touch "Test.txt"
+
 sed -i '' '/function sdfsdk()/d' ~/.bash_profile
 
 sdfsdk_function='function sdfsdk() { version=$1; versions=($(brew search sdfsdk)); link="sdfsdk"; brew unlink sdfsdk; for i in "${versions[@]}"; do if [[ $i != "==>" ]] && [[ $i != "Formulae" ]]; then sdkunlink="${i/limebox\/netsuite\//}"; brew unlink $sdkunlink; fi; done; if [[ $1 != "" ]]; then link="$link@$version"; fi; brew link $link; }'
