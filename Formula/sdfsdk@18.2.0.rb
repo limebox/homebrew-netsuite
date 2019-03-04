@@ -8,7 +8,10 @@ class SdfsdkAT1820 < Formula
   depends_on "maven" => :build
 
   def install
-    bin.install "sdfcli"
+
+  	system "curl", "https://raw.githubusercontent.com/limebox/homebrew-netsuite/19.1.0/sdfsdk", "-o", "#{buildpath}/sdfsdk"
+
+    bin.install "sdfcli", "sdfsdk"
     libexec.install "pom.xml", "com.netsuite.ide.core_2018.2.0.jar", "axis.jar", "NetSuiteWebService.jar", ".clicache"
   end
 
