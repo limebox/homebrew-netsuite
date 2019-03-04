@@ -10,16 +10,15 @@ class Sdfsdk < Formula
 
   def install
 
-    bin.install "sdfcli", "cli-2019.1.0.jar"
+  	system "curl", "https://raw.githubusercontent.com/limebox/homebrew-netsuite/19.1.0/sdfsdk", "-o", "#{buildpath}/sdfsdk"
+    bin.install "sdfcli", "cli-2019.1.0.jar","sdfsdk"
 
   end
 
   def post_install
 
     # Install .clicache shortcut
-    # system "ln", "-s", "~/.clicache", "#{bin}/.clicache"
-    system "curl", "https://raw.githubusercontent.com/limebox/homebrew-netsuite/19.1.0/sdfsdk_switch_shortcut.sh", "-o", "#{bin}/sdfsdk_switch_shortcut.sh"
-    system "bash", "./sdfsdk_switch_shortcut.sh"
+    system "ln", "-s", "~/.clicache", "#{bin}/.clicache"
 
   end
 
