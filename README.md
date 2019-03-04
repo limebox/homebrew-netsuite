@@ -55,7 +55,7 @@ brew uninstall sdfsdk
 
 You only need to do this when upgrading FROM 2018.2.0... If you are running a fresh install or upgrading in the future, you will no longer need to run this script.
 
-**Installing**
+# Installing
 
 Install this recipe by typing the command:
 ```bash
