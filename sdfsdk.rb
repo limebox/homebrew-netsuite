@@ -18,7 +18,7 @@ class Sdfsdk < Formula
   def post_install
 
     # Install .clicache shortcut
-    system "ln", "-s", "~/.clicache", "#{bin}/.clicache"
+    system "ln", "-s", "#{ENV['HOME']}/.clicache", "#{bin}/.clicache"
 
   end
 
