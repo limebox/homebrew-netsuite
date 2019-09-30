@@ -3,7 +3,7 @@ class Sdfsdk < Formula
   homepage "https://limebox.com/developers/sdfsdk"
   url "https://system.netsuite.com/download/suitecloud-sdk/cli/java/latest/sdf-cli.tar.gz"
   sha256 "eda2e440a374cb226b15ba6cc5b5e9b9824acf2203f0882c6c81f3d0ac2e841c"
-  version "19.2.0"
+  version "19.2.1"
 
   # Resolve cask dependencies
   depends_on :java => "1.8"
