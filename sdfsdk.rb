@@ -2,7 +2,7 @@ class Sdfsdk < Formula
   desc "NetSuite SDF SDK Tool"
   homepage "https://limebox.com/developers/sdfsdk"
   url "https://system.netsuite.com/download/suitecloud-sdk/cli/java/latest/sdf-cli.tar.gz"
-  sha256 "dec6dcb34202a3b1e56a47c274e34d6899632e89767516e7f2ec6ea1eae4d299"
+  sha256 "eda2e440a374cb226b15ba6cc5b5e9b9824acf2203f0882c6c81f3d0ac2e841c"
   version "19.2.0"
 
   # Resolve cask dependencies
