@@ -11,7 +11,7 @@ class Sdfsdk < Formula
   def install
 
         system "curl", "https://raw.githubusercontent.com/limebox/homebrew-netsuite/19.2.0/sdfsdk", "-o", "#{buildpath}/sdfsdk"
-    bin.install "sdfcli", "cli-2019.2.0.jar","sdfsdk"
+    bin.install "sdfcli", "cli-2019.2.1.jar","sdfsdk"
 
   end
 
