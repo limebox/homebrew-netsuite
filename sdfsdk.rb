@@ -6,7 +6,7 @@ class Sdfsdk < Formula
   version "20.2.0"
 
   # Resolve cask dependencies
-  depends_on :java => "1.8"
+  depends_on :java => "11.0"
 
   def install
 
